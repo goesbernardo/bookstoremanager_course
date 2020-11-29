@@ -1,1 +1,7 @@
 language: java
+sudo: false
+jdk: jdk11
+install: true
+cache:
+  directories:
+    - -$HOME/.m2
