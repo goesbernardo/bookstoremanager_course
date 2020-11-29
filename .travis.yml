@@ -3,6 +3,3 @@ language: java
 sudo: false
 jdk: openjdk14
 install: true
-cache:
-  directories:
-    - C:\Users\berna\.m2
