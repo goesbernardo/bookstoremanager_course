@@ -1,5 +1,5 @@
 dist: xenial
 language: java
 sudo: false
-jdk: oraclejdk11
+jdk: openjdk14
 install: true
