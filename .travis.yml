@@ -1,7 +1,6 @@
 language: java
 jdk:
   - oraclejdk11
-sudo: true
 install: true
 cache:
   directories:
