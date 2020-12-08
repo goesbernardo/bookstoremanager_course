@@ -23,7 +23,7 @@ public class Book {
     private int chapters;
 
     @ManyToOne(cascade = {CascadeType.MERGE})
-    private Autor autor;
+    private Author autor;
 
     private Publisher publisher;
 

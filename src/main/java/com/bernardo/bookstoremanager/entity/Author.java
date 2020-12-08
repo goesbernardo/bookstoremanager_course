@@ -8,7 +8,7 @@ import java.util.List;
 
 @Entity
 @Data
-public class Autor {
+public class Author {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
