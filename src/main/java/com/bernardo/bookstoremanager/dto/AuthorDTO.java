@@ -19,7 +19,7 @@ public class AuthorDTO {
     @NotNull
     @NotEmpty
     @Size(max = 205)
-    private String nome;
+    private String name;
 
     @Max(120)
     private Integer age;
